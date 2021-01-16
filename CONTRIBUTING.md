@@ -18,7 +18,7 @@ These tags [test-code], [test-text] or [test-other] will trigger a Dedicated Tes
 
 ```
 Q) What if I submit a normal Pull Request without the previous steps?
-A) It's totally find, but it may take a longer time to be processed
+A) It's fine, but it may take a longer time to be processed
 ```
 
 ## Write bug reports with short title, descriptive summary, and example
@@ -30,7 +30,7 @@ You can also add notes, screenshots or anything related to the issue that might 
 
 ```
 Q) What if I submit a normal Pull Request without the previous steps?
-A) It's totally find, but it may take a longer time to be processed
+A) It's fine, but it may take a longer time to be processed
 ```
 
 ## Coding style
