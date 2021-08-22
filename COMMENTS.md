@@ -1,0 +1,1 @@
+- Almost all of my accounts (Github etc..) are handled by automated systems, if your comment contains any of these categories: spam, links, nonsense or advertisements. Then, my systems weigh the comment based on those categories. If it's more than %50, I will not be able to see your comment. And, those systems will take an automated action. 
